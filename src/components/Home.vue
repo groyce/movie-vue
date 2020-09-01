@@ -28,7 +28,7 @@
                 <v-flex xs20>
                   <v-card>
                     <v-img
-                      :src="require('@/assets/images/movies.jpg')" height="200px">
+                      :src="require('@/assets/images/customer.jpg')" height="200px">
                     </v-img>
 
                     <v-card-actions>
