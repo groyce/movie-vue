@@ -1,6 +1,6 @@
 /* eslint-disable */
 import axios from 'axios';
-const API_URL = 'http://mmcmahon321.pythonanywhere.com/'
+const API_URL = 'http://localhost:8000'; /* http://127.0.0.1:8000/ or  'https://movies-groyce.pythonanywhere.com/'*/
 
 export class APIService {
   constructor() {
